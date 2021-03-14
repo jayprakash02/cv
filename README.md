@@ -29,10 +29,23 @@ Class 10+2 (PCM), 85%
 
 ### Experience 
 
-* [Web Application Developer](/images/0001.jpg)
+#### • [**Backend Developer**](/images/0001.jpg)
 
+##### Company Name : Robotix Club NITRR | Member
+- Dates Employed : Jan 2021 – Present
+<!-- - Employment Duration : 5 months -->
+- Location : NIT Raipur, Chhattisgarh, India
 
-- Company Name : Calidad HealthCare | Internship
+#### • [**Full Stack Developer**](/images/0001.jpg)
+
+##### Company Name : Achia | Freelancing
+- Dates Employed : Jan 2021 – March 2021
+- Employment Duration : 5 months
+- Location : Raipur, Chhattisgarh, India
+
+#### • [**Web Application Developer**](/images/0001.jpg)
+
+##### Company Name : Calidad HealthCare | Internship
 - Dates Employed : Jul 2020 – Nov 2020
 - Employment Duration : 5 months
 - Location : Raipur, Chhattisgarh, India
@@ -210,4 +223,4 @@ Aug 2018 – Dec 2018
 
 - Issuing authority : freeCodeCamp
 - Issued date : May 2020 - No Expiration Date
-- Credential ID : https://www.freecodecamp.org/jay_prakash/
+- Credential ID : [jayprakash](https://freecodecamp.org/certification/jay_prakash/responsive-web-design)
